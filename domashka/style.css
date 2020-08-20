@@ -1,0 +1,362 @@
+* { 
+  
+   } 
+@font-face {
+    font-family: "Segoe WP";
+    src: url("fonts/SegoeWP.ttf");
+        font-style: normal;
+    font-weight: normal; 
+}
+.logotip h2{
+width: 232px;
+height: 48px;
+color: #595959;
+font-family: "Trebuchet MS";
+font-size: 51px;
+font-weight: 400;
+line-height: 26.86px;
+    
+}
+
+.photologo {
+width: 29px;
+height: 30px;
+background-color: #6dd025;
+    border-radius: 30px;
+    margin: 0;
+    padding: 0;
+}
+
+.logotip {
+    width: 240px;
+    height: 48px;
+}
+
+.BlogLogo {
+width: 232px;
+height: 48px;
+font-family: "Trebuchet MS";
+font-size: 51px;
+font-weight: 400;
+line-height: 26.86px;
+color: #303030;
+    margin: 0;
+    padding: 0;
+}
+a {
+    text-decoration: none;
+}
+.MetrLogo {
+    
+width: 232px;
+height: 48px;
+font-family: "Trebuchet MS";
+font-size: 51px;
+font-weight: 400;
+line-height: 26.86px;
+    color: #848484;
+    margin: 0;
+    padding: 0;
+}
+
+.logo2 {
+    margin: 0px;
+}
+
+.Logotip2 {
+    width: 232px;
+    height: 48px;
+}
+
+.menu {
+    width: 461px;
+    height: 39px;
+}
+
+.menu__menu {
+    display: flex;
+    width: 461px;
+    height: 39px;
+    list-style-type: none;
+}
+
+.shapka {
+    display: flex;
+    justify-content: space-around;
+        align-items: center;
+    margin-top: 42px;
+}
+
+.menu__link {
+    margin: 20px;
+width: 441px;
+height: 24px;
+font-size: 23px;
+line-height: 23px;
+font-family: "Segoe WP";
+font-weight: 300;
+color: #323332;
+}
+
+.menu__active {
+    color: #ffff;
+    text-align: center;
+    width: 101px;
+height: 39px;
+background-color: #373737;
+   padding: 10px 20px;
+}
+
+.apple__text {
+width: 272px;
+height: 106px;
+color: #5d5d5d;
+font-family: "Segoe WP";
+font-size: 61px;
+font-weight: 300;
+line-height: 58.86px;
+font-size: 47px;
+    padding-bottom: 29px;
+}
+
+.Video__review {
+width: 204px;
+height: 39px;
+background-color: #373737;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+
+.photo__video__review {
+}
+
+
+
+.videoreview__text {
+width: 130px;
+height: 19px;
+color: #ffffff;
+font-family: "Segoe WPN";
+font-size: 23px;
+font-weight: 400;
+line-height: 23px;
+}
+
+.photo11 {
+    width: 33px;
+height: 17px;
+background-color: #373737;
+    padding-right: 11px;
+}
+
+.ipad {
+width: 817px;
+height: 384px;
+}
+
+.apple__ipad {
+    display: flex;
+    justify-content: center;
+        align-items: center;
+            padding-top: 146px;
+}
+
+.apple {
+    width: 272px;
+    height: 174px;
+}
+
+.telefon__pk__photo {
+    width: 308px;
+    height: 242px;
+    float: left;
+    margin: 0px 27px 0px 0px;
+}
+
+.telefon__pk__text__h2 {
+width: 283px;
+height: 75px;
+color: #696161;
+font-family: "Segoe WP";
+font-size: 30px;
+font-weight: 300;
+line-height: 37px;
+}
+
+.telefon__pk__text {
+    width: 342px;
+    height: 244px;
+}
+
+.telefon__pk {
+    display: flex;
+    width: 715px;
+    height: 244px;
+}
+
+.telefon__pk__text__p {
+width: 318px;
+height: 115px;
+color: #848484;
+font-family: "Segoe WP";
+font-size: 14px;
+font-weight: 300;
+line-height: 20px;
+}
+
+.strelka {
+width: 31px;
+height: 39px;
+background-color: #323332;
+opacity: 0.5;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.strelka__active {
+width: 32px;
+height: 39px;
+background-color: #323332;
+opacity: 0.64;
+}
+
+.strelka__right {
+width: 10px;
+height: 26px;
+    
+}
+
+.strelka__left {
+width: 10px;
+height: 26px;
+}
+
+.strelki {
+    display: flex;
+        align-items: flex-end;
+    width: 63px;
+    height: 39px;
+}
+
+.right__block__one {
+    width: 319px;
+height: 249px;
+border: 1px solid #e1dddd;
+background-color: #ffffff;
+    margin-bottom: 35px;
+}
+
+.right__info {
+    width: 319px;
+    padding-left: 23px;
+}
+
+.center__info {
+    display: flex;
+        justify-content: center;
+    margin-top: 40px;
+}
+
+.info__block__verx {
+width: auto;
+height: 49px;
+color: #696161;
+font-size: 26px;
+font-weight: 300;
+line-height: 28px;
+    margin-bottom: 15px;
+}
+
+.info__block {
+    width: 215px;
+    height: 210px;
+    display: flex;
+    flex-direction: column;
+    margin-right: 23px;
+    margin-bottom: 51px;
+}
+
+.center__info__info__bloki {
+    display: flex;
+    flex-direction: column;
+        width: 715px;
+}
+
+.info__bloki {
+    margin-top: 42px;
+    display: flex;
+    flex-wrap: wrap;
+    width: 715px;
+}
+
+.info__block__center {
+    height: 15px;
+color: #848484;
+font-family: "Segoe WP";
+font-size: 14px;
+font-weight: 300;
+line-height: 20px;
+    margin-bottom: 16px;
+}
+
+.info__block__niz {
+    width: 213px;
+color: #848484;
+font-family: "Segoe WP";
+font-size: 14px;
+font-weight: 300;
+line-height: 20px;
+}
+
+.footer {
+    width: 1528px;
+height: 109px;
+background-color: #393a39;
+    margin-top: 57px;
+    display: flex;
+    align-items: center
+}
+
+.footer__text {
+    
+color: #ffffff;
+font-family: "Segoe WP";
+font-size: 16px;
+font-weight: 300;
+line-height: 20px;
+    text-align: center;
+}
+
+.SocSeti {
+    display: flex;
+    padding-right: 205px;
+    position: absolute;
+    margin-left: 1192px;
+}
+
+.fa-facebook-square {
+    width: 27px;
+height: 27px;
+background-color: #ffffff;
+}
+
+.SocSeti__logo {
+    width: 27px;
+height: 27px;
+background-color: #ffffff;
+    margin-right: 15px;
+}
+
+.saut {
+    width: 1500px;
+    margin: auto
+}
+
+.footer__text__block {
+   justify-content: center;
+    display: flex;
+    width: 260px;
+    margin: auto;
+}
